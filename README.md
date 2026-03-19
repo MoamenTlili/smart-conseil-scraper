@@ -1,4 +1,4 @@
-# Test Technique Smart Conseil - Connecteur Instagram
+# Test Technique - Connecteur Instagram
 
 ## Description
 Ce projet implémente un connecteur Instagram en Python 3 permettant de collecter des publications, du texte, des images et des commentaires par rapport à un sujet défini (ex. : "Jacques Chirac"). Les données extraites ainsi que les images (converties en binaire) sont ensuite stockées de manière sécurisée dans une base de données MongoDB.
